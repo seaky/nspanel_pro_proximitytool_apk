@@ -1,4 +1,4 @@
-# NSPanel Pro Primity Application
+# NSPanel Pro Proximity Tool Application
 Beta test repo
 
 > **Warning**
